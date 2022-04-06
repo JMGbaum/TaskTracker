@@ -1,0 +1,14 @@
+Here is a summary of all commands:
+
+• exit              (e)    => exits the TaskKeeper system.
+• help              (h)    => displays this menu.
+• add-tag           (atg)  => adds a new tag to the TaskKeeper system.
+• delete-tag        (det)  => removes an existing tag from the TaskKeeper system.
+• display-tags      (dit)  => displays all tags in the TaskKeeper system.
+• add-task          (atk)  => adds a new task to the TaskKeeper system.
+• search-tags       (st)   => searches for tasks based on their tags.
+• search-dates      (sd)   => searches for tasks based on their due dates.
+• search-tags-dates (std)  => searches for tasks based on a combination of tags and due dates.
+• search-text       (stxt) => searches for tasks based on their descriptions.
+• save-tasks        (stk)  => saves all tasks in the TaskKeeper system to a file.
+• load-tasks        (ltk)  => loads all tasks from a file into the TaskKeeper system, replacing current data.
